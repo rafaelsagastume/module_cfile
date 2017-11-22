@@ -1,0 +1,5 @@
+module CoreCFile [system] {
+  header <stdio.h>
+
+  export *
+}
