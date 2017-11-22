@@ -1,6 +1,7 @@
 module CoreCFile [system] {
   header "/usr/include/stdio.h"
   header "/usr/include/libio.h"
+  header "/usr/include/features.h"
 
   export *
 }
